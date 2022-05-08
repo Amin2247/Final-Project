@@ -29,10 +29,10 @@ let direction = 0;
 let redValue = 128;
 let greenValue = 128;
 let blueValue = 128;
-let s1 = "Type in elilipse, square or rectangle in the input box";
-let s2 = "Then press the Go button to draw the shape";
-let s3 = "Use Sliders to change the color of the shape";
-let s4 = "Press mouse wheel to resize the shape";
+let s1 = "I Plan tto change the shapes to an avater";
+let s2 = "Then the Go button to draw the avatar";
+let s3 = "the sliders will change the color of the avatar";
+let s4 = "Press mouse wheel to resize the Avatar, I plan to change the shapes to avatar";
 function setup() {
   createCanvas(canvavWidth, canvasHight);
   angleMode(DEGREES);
